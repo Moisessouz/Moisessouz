@@ -3,10 +3,9 @@
 - 📈 I’m currently working on front and back-end development;
 - 📚 I’m currently learning Python and JavaScript;
   
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Moisessouza&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Moisessouz/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Moisessouza&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Moisessouz/github-readme-stats#gh-light-mode-only)
-
-![Top Langs](https://Moisessouz.vercel.app/api/top-langs/?username=Moisessouz&layout=compact)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Moisessouza&show_icons=true&theme=defaut#gh-dark-mode-only)](https://github.com/Moisessouz/Moisessouz#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Moisessouza&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Moisessouz/Moisessouz#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moisessouz&hide_progress=true)
 
 
   <div style="display: inline_block"><br>
