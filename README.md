@@ -5,6 +5,7 @@
   
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Moisessouza&show_icons=true&theme=defaut#gh-dark-mode-only)](https://github.com/Moisessouz/Moisessouz#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Moisessouza&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Moisessouz/Moisessouz#gh-light-mode-only)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moisessouz&hide_progress=true)
 
 
